@@ -1,4 +1,4 @@
-# newminimall
+# Mini-Mall
 
 ![alt tex](https://github.com/AkshayKalambe/newminimall/blob/master/Screenshots/1.png)
 ![alt tex](https://github.com/AkshayKalambe/newminimall/blob/master/Screenshots/2.png)
